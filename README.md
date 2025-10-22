@@ -1,1 +1,1 @@
-#Nothing to look here it's a baisc local repo.
+# Nothing to look here it's a basic local repo.
